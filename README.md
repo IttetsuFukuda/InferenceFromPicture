@@ -1,5 +1,4 @@
 # TestApp002
 
-android上で，撮影した画像に対して学習済pytorchモデルを用いて推論を行う
+android上で撮影した画像に対して学習済pytorchモデルを用いて推論
 
-TODO:UIの改良...
