@@ -1,8 +1,8 @@
 # InferenceFromPicture
 
-1. androidで撮影
-2. 学習済pytorchモデルを用いて推論
-3. 結果を表示
+1. take a photo with android camera
+2. inference what the object is, using pretrained neural network
+3. show result
 
 ## example
 
