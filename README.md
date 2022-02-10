@@ -1,6 +1,8 @@
 # InferenceFromPicture
 
-android上で撮影した画像に対して学習済pytorchモデルを用いて推論
+1. androidで撮影
+2. 学習済pytorchモデルを用いて推論
+3. 結果を表示
 
 ## example
 
